@@ -1,0 +1,5 @@
+title: Home
+greeting:
+  video:
+    src: https://raw.githubusercontent.com/jessesoo-tk/test-cms/main/content/home/en/assets/greeting.mp4
+  markdown: https://raw.githubusercontent.com/jessesoo-tk/test-cms/main/content/home/en/markdown/greeting.md
