@@ -1,3 +1,8 @@
-title: ホームタイトル
-banner:
-  markdown: https://raw.githubusercontent.com/jessesoo-tk/test-cms/main/content/home/banner.ja.md
+page:
+  title: ホームタイトル
+video:
+  src: https://raw.githubusercontent.com/jessesoo-tk/test-cms/main/assets/videos/sample.ja.mp4
+
+# Please do not edit this part
+markdown:
+  banner: https://raw.githubusercontent.com/jessesoo-tk/test-cms/main/content/home/banner.ja.md
