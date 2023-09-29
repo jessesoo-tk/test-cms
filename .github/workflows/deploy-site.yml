@@ -1,4 +1,4 @@
-name: Deploy content to site
+name: Publish content
 on:
   workflow_dispatch:  
   # push:
